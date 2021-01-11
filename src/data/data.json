@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "thong",
+    "phone": "012345675",
+    "permission": 1
+  },
+  {
+    "id": 2,
+    "name": "thong1",
+    "phone": "012345676",
+    "permission": 1
+  },
+  {
+    "id": 3,
+    "name": "thong2",
+    "phone": "012345677",
+    "permission": 1
+  },
+  {
+    "id": 4,
+    "name": "thong3",
+    "phone": "012345678",
+    "permission": 1
+  }
+]
